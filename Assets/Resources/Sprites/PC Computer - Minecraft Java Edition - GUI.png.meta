@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 2036cfc7bb2a8864da91ceba4ca32e89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4936382094141079139
+    second: PC Computer - Minecraft Java Edition - GUI_0
+  - first:
+      213: 3847408798133032276
+    second: PC Computer - Minecraft Java Edition - GUI_1
+  - first:
+      213: -6766034874209371705
+    second: PC Computer - Minecraft Java Edition - GUI_2
+  - first:
+      213: 1510112158785527531
+    second: PC Computer - Minecraft Java Edition - GUI_3
+  - first:
+      213: 6381270786452687850
+    second: PC Computer - Minecraft Java Edition - GUI_4
+  - first:
+      213: 5635631107090601374
+    second: PC Computer - Minecraft Java Edition - GUI_5
+  - first:
+      213: -7396876560349170283
+    second: PC Computer - Minecraft Java Edition - GUI_6
+  - first:
+      213: 7743027220982788115
+    second: PC Computer - Minecraft Java Edition - GUI_7
+  - first:
+      213: 1807801184278324914
+    second: PC Computer - Minecraft Java Edition - GUI_8
+  - first:
+      213: 1011305469490528283
+    second: PC Computer - Minecraft Java Edition - GUI_9
+  - first:
+      213: 3337131351706742238
+    second: PC Computer - Minecraft Java Edition - GUI_10
+  - first:
+      213: 8174245899955024399
+    second: PC Computer - Minecraft Java Edition - GUI_11
+  - first:
+      213: -9194615453124586159
+    second: PC Computer - Minecraft Java Edition - GUI_12
+  - first:
+      213: -8782789368091035730
+    second: PC Computer - Minecraft Java Edition - GUI_13
+  - first:
+      213: 57057841570355572
+    second: PC Computer - Minecraft Java Edition - GUI_14
+  - first:
+      213: -8696060836650475913
+    second: PC Computer - Minecraft Java Edition - GUI_15
+  - first:
+      213: 8946666397367041430
+    second: PC Computer - Minecraft Java Edition - GUI_16
+  - first:
+      213: 7043835738173978100
+    second: PC Computer - Minecraft Java Edition - GUI_17
+  - first:
+      213: 738124611059302555
+    second: PC Computer - Minecraft Java Edition - GUI_18
+  - first:
+      213: -6645028506024798005
+    second: PC Computer - Minecraft Java Edition - GUI_19
+  - first:
+      213: -1184236983500213606
+    second: PC Computer - Minecraft Java Edition - GUI_20
+  - first:
+      213: 3213100748852628153
+    second: PC Computer - Minecraft Java Edition - GUI_21
+  - first:
+      213: -1104971131599175700
+    second: PC Computer - Minecraft Java Edition - GUI_22
+  - first:
+      213: -314505466692097155
+    second: PC Computer - Minecraft Java Edition - GUI_23
+  - first:
+      213: 4673987246766672922
+    second: PC Computer - Minecraft Java Edition - GUI_24
+  - first:
+      213: 6628264957545736517
+    second: PC Computer - Minecraft Java Edition - GUI_25
+  - first:
+      213: -1157821073594634760
+    second: PC Computer - Minecraft Java Edition - GUI_26
+  - first:
+      213: -9213433921874823876
+    second: PC Computer - Minecraft Java Edition - GUI_27
+  - first:
+      213: -246600913395155978
+    second: PC Computer - Minecraft Java Edition - GUI_28
+  - first:
+      213: 5370243202491640220
+    second: PC Computer - Minecraft Java Edition - GUI_37
+  - first:
+      213: 3768291536841716078
+    second: PC Computer - Minecraft Java Edition - GUI_38
+  - first:
+      213: 5499191634190236872
+    second: PC Computer - Minecraft Java Edition - GUI_39
+  - first:
+      213: 1555193970752317467
+    second: PC Computer - Minecraft Java Edition - GUI_40
+  - first:
+      213: -3272793573390533282
+    second: PC Computer - Minecraft Java Edition - GUI_41
+  - first:
+      213: -8110789302964345561
+    second: PC Computer - Minecraft Java Edition - GUI_42
+  - first:
+      213: 6229601836958705104
+    second: PC Computer - Minecraft Java Edition - GUI_43
+  - first:
+      213: 1349618963518245550
+    second: PC Computer - Minecraft Java Edition - GUI_44
+  - first:
+      213: 8525585967925859781
+    second: PC Computer - Minecraft Java Edition - GUI_45
+  - first:
+      213: 2718729226070632879
+    second: PC Computer - Minecraft Java Edition - GUI_46
+  - first:
+      213: -795697523021871768
+    second: PC Computer - Minecraft Java Edition - GUI_47
+  - first:
+      213: 1282490674714693242
+    second: PC Computer - Minecraft Java Edition - GUI_48
+  - first:
+      213: 4433070585097908476
+    second: PC Computer - Minecraft Java Edition - GUI_49
+  - first:
+      213: 8395239101966508718
+    second: PC Computer - Minecraft Java Edition - GUI_50
+  - first:
+      213: 1640074818082363590
+    second: PC Computer - Minecraft Java Edition - GUI_51
+  - first:
+      213: 4275752046156071551
+    second: PC Computer - Minecraft Java Edition - GUI_52
+  - first:
+      213: -7100111811693156872
+    second: PC Computer - Minecraft Java Edition - GUI_53
+  - first:
+      213: -1710364231486572418
+    second: PC Computer - Minecraft Java Edition - GUI_54
+  - first:
+      213: 6337252406192344726
+    second: PC Computer - Minecraft Java Edition - GUI_55
+  - first:
+      213: 3810856518323676231
+    second: PC Computer - Minecraft Java Edition - GUI_57
+  - first:
+      213: 3516326095868351270
+    second: PC Computer - Minecraft Java Edition - GUI_58
+  - first:
+      213: -4362706543019297169
+    second: PC Computer - Minecraft Java Edition - GUI_59
+  - first:
+      213: -8262963864652128860
+    second: PC Computer - Minecraft Java Edition - GUI_60
+  - first:
+      213: -9177921398893316860
+    second: PC Computer - Minecraft Java Edition - GUI_61
+  - first:
+      213: 6099971903079102018
+    second: PC Computer - Minecraft Java Edition - GUI_62
+  - first:
+      213: -8411536774110758155
+    second: PC Computer - Minecraft Java Edition - GUI_65
+  - first:
+      213: 2003301896359979117
+    second: PC Computer - Minecraft Java Edition - GUI_66
+  - first:
+      213: -3102421323389621268
+    second: PC Computer - Minecraft Java Edition - GUI_67
+  - first:
+      213: 8029305582189378998
+    second: PC Computer - Minecraft Java Edition - GUI_68
+  - first:
+      213: 920633771486403989
+    second: PC Computer - Minecraft Java Edition - GUI_69
+  - first:
+      213: -5207641528936482740
+    second: PC Computer - Minecraft Java Edition - GUI_70
+  - first:
+      213: 7297400125647811957
+    second: PC Computer - Minecraft Java Edition - GUI_71
+  - first:
+      213: -5780227351301948244
+    second: PC Computer - Minecraft Java Edition - GUI_72
+  - first:
+      213: 5935270733159641018
+    second: PC Computer - Minecraft Java Edition - GUI_73
+  - first:
+      213: 5082641660103665540
+    second: PC Computer - Minecraft Java Edition - GUI_74
+  - first:
+      213: 6212047223585769382
+    second: PC Computer - Minecraft Java Edition - GUI_75
+  - first:
+      213: -2316942386223738555
+    second: PC Computer - Minecraft Java Edition - GUI_76
+  - first:
+      213: -3130436799782448043
+    second: PC Computer - Minecraft Java Edition - GUI_77
+  - first:
+      213: -4792267177731842888
+    second: PC Computer - Minecraft Java Edition - GUI_78
+  - first:
+      213: -7260630416871826361
+    second: PC Computer - Minecraft Java Edition - GUI_79
+  - first:
+      213: 390850814900626666
+    second: PC Computer - Minecraft Java Edition - GUI_84
+  - first:
+      213: -5500007537449294374
+    second: PC Computer - Minecraft Java Edition - GUI_85
+  - first:
+      213: -7337128942343906314
+    second: PC Computer - Minecraft Java Edition - GUI_86
+  - first:
+      213: -601823097479324160
+    second: PC Computer - Minecraft Java Edition - GUI_87
+  - first:
+      213: 2320146278806137547
+    second: PC Computer - Minecraft Java Edition - GUI_88
+  - first:
+      213: 5660334549226171101
+    second: PC Computer - Minecraft Java Edition - GUI_89
+  - first:
+      213: -6275857627375479815
+    second: PC Computer - Minecraft Java Edition - GUI_90
+  - first:
+      213: 8424637522174486667
+    second: PC Computer - Minecraft Java Edition - GUI_91
+  - first:
+      213: -6751256123056119800
+    second: PC Computer - Minecraft Java Edition - GUI_92
+  - first:
+      213: -1035470747926590613
+    second: PC Computer - Minecraft Java Edition - GUI_93
+  - first:
+      213: 891733489684504046
+    second: PC Computer - Minecraft Java Edition - GUI_94
+  - first:
+      213: 3672267938692435066
+    second: PC Computer - Minecraft Java Edition - GUI_95
+  - first:
+      213: -6673955018316525104
+    second: PC Computer - Minecraft Java Edition - GUI_96
+  - first:
+      213: 344710810399990556
+    second: PC Computer - Minecraft Java Edition - GUI_97
+  - first:
+      213: 1246589446336702576
+    second: PC Computer - Minecraft Java Edition - GUI_98
+  - first:
+      213: -5996915795663823293
+    second: PC Computer - Minecraft Java Edition - GUI_99
+  - first:
+      213: 8052686258736714058
+    second: PC Computer - Minecraft Java Edition - GUI_100
+  - first:
+      213: 7402858920465547031
+    second: PC Computer - Minecraft Java Edition - GUI_101
+  - first:
+      213: -6791064526937623999
+    second: PC Computer - Minecraft Java Edition - GUI_102
+  - first:
+      213: 6341192171591085905
+    second: PC Computer - Minecraft Java Edition - GUI_103
+  - first:
+      213: 1216582933205013522
+    second: PC Computer - Minecraft Java Edition - GUI_104
+  - first:
+      213: -1883783475644393040
+    second: PC Computer - Minecraft Java Edition - GUI_105
+  - first:
+      213: -7169894394498519595
+    second: PC Computer - Minecraft Java Edition - GUI_106
+  - first:
+      213: 5862224267384827821
+    second: PC Computer - Minecraft Java Edition - GUI_107
+  - first:
+      213: -5505779438798492131
+    second: PC Computer - Minecraft Java Edition - GUI_108
+  - first:
+      213: 25724421105672256
+    second: PC Computer - Minecraft Java Edition - GUI_109
+  - first:
+      213: -7450725633517215378
+    second: PC Computer - Minecraft Java Edition - GUI_110
+  - first:
+      213: 5324314624771880477
+    second: PC Computer - Minecraft Java Edition - GUI_111
+  - first:
+      213: -1522101159369397680
+    second: PC Computer - Minecraft Java Edition - GUI_112
+  - first:
+      213: -6622392476807987131
+    second: PC Computer - Minecraft Java Edition - GUI_113
+  - first:
+      213: 5999265379068964954
+    second: PC Computer - Minecraft Java Edition - GUI_114
+  - first:
+      213: -1495938557099629387
+    second: PC Computer - Minecraft Java Edition - GUI_115
+  - first:
+      213: 6198686883982937470
+    second: PC Computer - Minecraft Java Edition - GUI_116
+  - first:
+      213: 2569820691240273670
+    second: PC Computer - Minecraft Java Edition - GUI_117
+  - first:
+      213: 6111117690665701029
+    second: PC Computer - Minecraft Java Edition - GUI_118
+  - first:
+      213: 6963718730016212268
+    second: PC Computer - Minecraft Java Edition - GUI_119
+  - first:
+      213: -4100346326471798655
+    second: PC Computer - Minecraft Java Edition - GUI_120
+  - first:
+      213: -3429425564349474327
+    second: PC Computer - Minecraft Java Edition - GUI_121
+  - first:
+      213: -800544645841864655
+    second: PC Computer - Minecraft Java Edition - GUI_122
+  - first:
+      213: -1888590185945821417
+    second: PC Computer - Minecraft Java Edition - GUI_123
+  - first:
+      213: 3257420871411840835
+    second: PC Computer - Minecraft Java Edition - GUI_124
+  - first:
+      213: -5436756490546583935
+    second: PC Computer - Minecraft Java Edition - GUI_125
+  - first:
+      213: 1672313469636066854
+    second: PC Computer - Minecraft Java Edition - GUI_126
+  - first:
+      213: -1365842695954511240
+    second: PC Computer - Minecraft Java Edition - GUI_127
+  - first:
+      213: 7086422016235937068
+    second: PC Computer - Minecraft Java Edition - GUI_128
+  - first:
+      213: 8727533844141086781
+    second: PC Computer - Minecraft Java Edition - GUI_129
+  - first:
+      213: -6638839571180717010
+    second: PC Computer - Minecraft Java Edition - GUI_130
+  - first:
+      213: 2823976186703136862
+    second: PC Computer - Minecraft Java Edition - GUI_131
+  - first:
+      213: 3648321031870874068
+    second: PC Computer - Minecraft Java Edition - GUI_132
+  - first:
+      213: 8191633447550746292
+    second: PC Computer - Minecraft Java Edition - GUI_133
+  - first:
+      213: 5368683743321162188
+    second: PC Computer - Minecraft Java Edition - GUI_134
+  - first:
+      213: -6596056212959973680
+    second: PC Computer - Minecraft Java Edition - GUI_135
+  - first:
+      213: -8032867024688264006
+    second: PC Computer - Minecraft Java Edition - GUI_136
+  - first:
+      213: 7921086209013686052
+    second: PC Computer - Minecraft Java Edition - GUI_137
+  - first:
+      213: -2962478435018668508
+    second: PC Computer - Minecraft Java Edition - GUI_138
+  - first:
+      213: -4309499203002246920
+    second: PC Computer - Minecraft Java Edition - GUI_139
+  - first:
+      213: 5346770538442566047
+    second: PC Computer - Minecraft Java Edition - GUI_140
+  - first:
+      213: -3462584075482292607
+    second: PC Computer - Minecraft Java Edition - GUI_141
+  - first:
+      213: -4127144621387829434
+    second: PC Computer - Minecraft Java Edition - GUI_142
+  - first:
+      213: 6122475068262642144
+    second: PC Computer - Minecraft Java Edition - GUI_143
+  - first:
+      213: -2777323326664457120
+    second: PC Computer - Minecraft Java Edition - GUI_145
+  - first:
+      213: 1842752518888496825
+    second: PC Computer - Minecraft Java Edition - GUI_146
+  - first:
+      213: 1363228319232955656
+    second: PC Computer - Minecraft Java Edition - GUI_147
+  - first:
+      213: -5470967325554512497
+    second: PC Computer - Minecraft Java Edition - GUI_148
+  - first:
+      213: 1744158933987674689
+    second: PC Computer - Minecraft Java Edition - GUI_149
+  - first:
+      213: -929655397203004116
+    second: PC Computer - Minecraft Java Edition - GUI_150
+  - first:
+      213: -2602397210143183563
+    second: PC Computer - Minecraft Java Edition - GUI_151
+  - first:
+      213: -111451290673086081
+    second: PC Computer - Minecraft Java Edition - GUI_152
+  - first:
+      213: -6312577033798447291
+    second: PC Computer - Minecraft Java Edition - GUI_153
+  - first:
+      213: -6951906234053502967
+    second: PC Computer - Minecraft Java Edition - GUI_154
+  - first:
+      213: 254654188880381093
+    second: PC Computer - Minecraft Java Edition - GUI_155
+  - first:
+      213: 5085709188517261532
+    second: PC Computer - Minecraft Java Edition - GUI_156
+  - first:
+      213: 3177911604292439926
+    second: PC Computer - Minecraft Java Edition - GUI_157
+  - first:
+      213: 1037053605147549018
+    second: PC Computer - Minecraft Java Edition - GUI_158
+  - first:
+      213: -1356267097689671748
+    second: PC Computer - Minecraft Java Edition - GUI_159
+  - first:
+      213: -726990532133804950
+    second: PC Computer - Minecraft Java Edition - GUI_160
+  - first:
+      213: -5774138806306277255
+    second: PC Computer - Minecraft Java Edition - GUI_161
+  - first:
+      213: -8095688145660105938
+    second: PC Computer - Minecraft Java Edition - GUI_162
+  - first:
+      213: -4136102910943313289
+    second: PC Computer - Minecraft Java Edition - GUI_163
+  - first:
+      213: 7086982404377771587
+    second: PC Computer - Minecraft Java Edition - GUI_164
+  - first:
+      213: 49854339955493887
+    second: PC Computer - Minecraft Java Edition - GUI_165
+  - first:
+      213: 6179762413789650647
+    second: PC Computer - Minecraft Java Edition - GUI_166
+  - first:
+      213: -7254308929771475145
+    second: PC Computer - Minecraft Java Edition - GUI_167
+  - first:
+      213: -95781358005295169
+    second: PC Computer - Minecraft Java Edition - GUI_168
+  - first:
+      213: -1248644171941908067
+    second: PC Computer - Minecraft Java Edition - GUI_169
+  - first:
+      213: -3314162025813377363
+    second: PC Computer - Minecraft Java Edition - GUI_170
+  - first:
+      213: 3518750299463473708
+    second: PC Computer - Minecraft Java Edition - GUI_171
+  - first:
+      213: -8090896489217404748
+    second: PC Computer - Minecraft Java Edition - GUI_172
+  - first:
+      213: 4532471797982047169
+    second: PC Computer - Minecraft Java Edition - GUI_173
+  - first:
+      213: 4610175253382945209
+    second: PC Computer - Minecraft Java Edition - GUI_174
+  - first:
+      213: 4412817580976220830
+    second: PC Computer - Minecraft Java Edition - GUI_175
+  - first:
+      213: 7929732080026537102
+    second: PC Computer - Minecraft Java Edition - GUI_176
+  - first:
+      213: 5502937549463772884
+    second: PC Computer - Minecraft Java Edition - GUI_177
+  - first:
+      213: -7803827272203392594
+    second: PC Computer - Minecraft Java Edition - GUI_178
+  - first:
+      213: 3033284602205917717
+    second: PC Computer - Minecraft Java Edition - GUI_179
+  - first:
+      213: 2249025936755227229
+    second: PC Computer - Minecraft Java Edition - GUI_180
+  - first:
+      213: -4365467591704164381
+    second: PC Computer - Minecraft Java Edition - GUI_181
+  - first:
+      213: -1196665969590170616
+    second: PC Computer - Minecraft Java Edition - GUI_182
+  - first:
+      213: 5755839828016980314
+    second: PC Computer - Minecraft Java Edition - GUI_183
+  - first:
+      213: -7162906781043746631
+    second: PC Computer - Minecraft Java Edition - GUI_184
+  - first:
+      213: 8648589712622161617
+    second: PC Computer - Minecraft Java Edition - GUI_185
+  - first:
+      213: -4169011461959743519
+    second: PC Computer - Minecraft Java Edition - GUI_186
+  - first:
+      213: -5574694040425341234
+    second: PC Computer - Minecraft Java Edition - GUI_187
+  - first:
+      213: -931667535016977839
+    second: PC Computer - Minecraft Java Edition - GUI_188
+  - first:
+      213: 7929191090160885643
+    second: PC Computer - Minecraft Java Edition - GUI_189
+  - first:
+      213: -2112987020515543427
+    second: PC Computer - Minecraft Java Edition - GUI_190
+  - first:
+      213: -7954564304507953961
+    second: PC Computer - Minecraft Java Edition - GUI_191
+  - first:
+      213: 6146814557537824952
+    second: PC Computer - Minecraft Java Edition - GUI_192
+  - first:
+      213: -4762448574729966433
+    second: PC Computer - Minecraft Java Edition - GUI_193
+  - first:
+      213: -4952640549948633082
+    second: PC Computer - Minecraft Java Edition - GUI_194
+  - first:
+      213: -6709739901124271118
+    second: PC Computer - Minecraft Java Edition - GUI_195
+  - first:
+      213: -3722249926500536682
+    second: PC Computer - Minecraft Java Edition - GUI_196
+  - first:
+      213: 3817411415934549582
+    second: PC Computer - Minecraft Java Edition - GUI_197
+  - first:
+      213: 628327232449937367
+    second: PC Computer - Minecraft Java Edition - GUI_198
+  - first:
+      213: -998739238455147460
+    second: PC Computer - Minecraft Java Edition - GUI_199
+  - first:
+      213: 8414731711869973227
+    second: PC Computer - Minecraft Java Edition - GUI_200
+  - first:
+      213: 4701814334904455734
+    second: PC Computer - Minecraft Java Edition - GUI_201
+  - first:
+      213: 9161381381639661971
+    second: PC Computer - Minecraft Java Edition - GUI_202
+  - first:
+      213: -6957671712472459594
+    second: PC Computer - Minecraft Java Edition - GUI_203
+  - first:
+      213: 336770605838963208
+    second: PC Computer - Minecraft Java Edition - GUI_204
+  - first:
+      213: -6335766315709178436
+    second: PC Computer - Minecraft Java Edition - GUI_206
+  - first:
+      213: 2214074160830725125
+    second: PC Computer - Minecraft Java Edition - GUI_207
+  - first:
+      213: 6578193394233469195
+    second: PC Computer - Minecraft Java Edition - GUI_208
+  - first:
+      213: 6496044426641249576
+    second: PC Computer - Minecraft Java Edition - GUI_209
+  - first:
+      213: 6915201585655440949
+    second: PC Computer - Minecraft Java Edition - GUI_210
+  - first:
+      213: -6220600069208305032
+    second: PC Computer - Minecraft Java Edition - GUI_211
+  - first:
+      213: 3557793270416302004
+    second: PC Computer - Minecraft Java Edition - GUI_212
+  - first:
+      213: 7264235729226286507
+    second: PC Computer - Minecraft Java Edition - GUI_213
+  - first:
+      213: 50155451023738948
+    second: PC Computer - Minecraft Java Edition - GUI_214
+  - first:
+      213: 1226358503909156390
+    second: PC Computer - Minecraft Java Edition - GUI_215
+  - first:
+      213: 4102440112234822831
+    second: PC Computer - Minecraft Java Edition - GUI_216
+  - first:
+      213: 3011872016873214943
+    second: PC Computer - Minecraft Java Edition - GUI_217
+  - first:
+      213: 631530389404777971
+    second: PC Computer - Minecraft Java Edition - GUI_218
+  - first:
+      213: -424073091456722714
+    second: PC Computer - Minecraft Java Edition - GUI_219
+  - first:
+      213: -1224379733804216367
+    second: PC Computer - Minecraft Java Edition - GUI_220
+  - first:
+      213: -1400867907032984088
+    second: PC Computer - Minecraft Java Edition - GUI_221
+  - first:
+      213: 4028367566041200170
+    second: PC Computer - Minecraft Java Edition - GUI_222
+  - first:
+      213: -1446792077730354045
+    second: PC Computer - Minecraft Java Edition - GUI_223
+  - first:
+      213: -9214106746406931069
+    second: PC Computer - Minecraft Java Edition - GUI_224
+  - first:
+      213: -7186768406027313540
+    second: PC Computer - Minecraft Java Edition - GUI_225
+  - first:
+      213: 1600348579491830545
+    second: PC Computer - Minecraft Java Edition - GUI_226
+  - first:
+      213: -8028711021805985301
+    second: PC Computer - Minecraft Java Edition - GUI_227
+  - first:
+      213: 1830518333581366352
+    second: PC Computer - Minecraft Java Edition - GUI_228
+  - first:
+      213: 2243619743243351011
+    second: PC Computer - Minecraft Java Edition - GUI_229
+  - first:
+      213: 5627225079700490564
+    second: PC Computer - Minecraft Java Edition - GUI_230
+  - first:
+      213: -8671056466206114290
+    second: PC Computer - Minecraft Java Edition - GUI_231
+  - first:
+      213: 523216494077866587
+    second: PC Computer - Minecraft Java Edition - GUI_232
+  - first:
+      213: 2040068614123183167
+    second: PC Computer - Minecraft Java Edition - GUI_233
+  - first:
+      213: -5683047772049394899
+    second: PC Computer - Minecraft Java Edition - GUI_234
+  - first:
+      213: 2117194134542304287
+    second: PC Computer - Minecraft Java Edition - GUI_235
+  - first:
+      213: -4767186569152407086
+    second: PC Computer - Minecraft Java Edition - GUI_236
+  - first:
+      213: 2054765542451964402
+    second: PC Computer - Minecraft Java Edition - GUI_237
+  - first:
+      213: 4076132738720451949
+    second: PC Computer - Minecraft Java Edition - GUI_238
+  - first:
+      213: -4346963012082641310
+    second: PC Computer - Minecraft Java Edition - GUI_239
+  - first:
+      213: 6499010101576956379
+    second: PC Computer - Minecraft Java Edition - GUI_240
+  - first:
+      213: 4497389369976986617
+    second: PC Computer - Minecraft Java Edition - GUI_241
+  - first:
+      213: 6487562712789566310
+    second: PC Computer - Minecraft Java Edition - GUI_242
+  - first:
+      213: 6265061202066172996
+    second: PC Computer - Minecraft Java Edition - GUI_243
+  - first:
+      213: 6771313837195528429
+    second: PC Computer - Minecraft Java Edition - GUI_244
+  - first:
+      213: 7195716055427475532
+    second: PC Computer - Minecraft Java Edition - GUI_245
+  - first:
+      213: -7949445297951151217
+    second: PC Computer - Minecraft Java Edition - GUI_246
+  - first:
+      213: -6228887903215758896
+    second: PC Computer - Minecraft Java Edition - GUI_247
+  - first:
+      213: 1393278304751531160
+    second: PC Computer - Minecraft Java Edition - GUI_248
+  - first:
+      213: 2665693592995492483
+    second: PC Computer - Minecraft Java Edition - GUI_249
+  - first:
+      213: 5704132369211779666
+    second: PC Computer - Minecraft Java Edition - GUI_250
+  - first:
+      213: 12834286259807602
+    second: PC Computer - Minecraft Java Edition - GUI_251
+  - first:
+      213: -692073281968858572
+    second: PC Computer - Minecraft Java Edition - GUI_252
+  - first:
+      213: -3350364556467913447
+    second: PC Computer - Minecraft Java Edition - GUI_253
+  - first:
+      213: 8975112799940874389
+    second: PC Computer - Minecraft Java Edition - GUI_254
+  - first:
+      213: -2920165775222552493
+    second: PC Computer - Minecraft Java Edition - GUI_255
+  - first:
+      213: -5239614812551813282
+    second: PC Computer - Minecraft Java Edition - GUI_256
+  - first:
+      213: 2277557043756155168
+    second: PC Computer - Minecraft Java Edition - GUI_257
+  - first:
+      213: 1238085836255807948
+    second: PC Computer - Minecraft Java Edition - GUI_258
+  - first:
+      213: -5778229094005824493
+    second: PC Computer - Minecraft Java Edition - GUI_259
+  - first:
+      213: 7052194961594539643
+    second: PC Computer - Minecraft Java Edition - GUI_260
+  - first:
+      213: -1595576247226792593
+    second: PC Computer - Minecraft Java Edition - GUI_261
+  - first:
+      213: 1772571338452275923
+    second: PC Computer - Minecraft Java Edition - GUI_262
+  - first:
+      213: -162183669277385353
+    second: PC Computer - Minecraft Java Edition - GUI_263
+  - first:
+      213: -4997823666452571933
+    second: PC Computer - Minecraft Java Edition - GUI_264
+  - first:
+      213: 6175925416232599938
+    second: PC Computer - Minecraft Java Edition - GUI_265
+  - first:
+      213: 5064540225053327457
+    second: PC Computer - Minecraft Java Edition - GUI_266
+  - first:
+      213: -421265897095309843
+    second: PC Computer - Minecraft Java Edition - GUI_267
+  - first:
+      213: -1726401935754549043
+    second: PC Computer - Minecraft Java Edition - GUI_268
+  - first:
+      213: 8415946354710651053
+    second: PC Computer - Minecraft Java Edition - GUI_269
+  - first:
+      213: -3644568441752931323
+    second: PC Computer - Minecraft Java Edition - GUI_270
+  - first:
+      213: 8483084139069719351
+    second: PC Computer - Minecraft Java Edition - GUI_271
+  - first:
+      213: -6069742732450606173
+    second: PC Computer - Minecraft Java Edition - GUI_272
+  - first:
+      213: -5041335490046354261
+    second: PC Computer - Minecraft Java Edition - GUI_273
+  - first:
+      213: -3795518615563593268
+    second: PC Computer - Minecraft Java Edition - GUI_274
+  - first:
+      213: 1924332334071114205
+    second: PC Computer - Minecraft Java Edition - GUI_275
+  - first:
+      213: -2594591397259670440
+    second: PC Computer - Minecraft Java Edition - GUI_276
+  - first:
+      213: -2902654601674808279
+    second: PC Computer - Minecraft Java Edition - GUI_277
+  - first:
+      213: 1105957729156877090
+    second: PC Computer - Minecraft Java Edition - GUI_278
+  - first:
+      213: 1658770329457906136
+    second: PC Computer - Minecraft Java Edition - GUI_279
+  - first:
+      213: -3831989888677317885
+    second: PC Computer - Minecraft Java Edition - GUI_280
+  - first:
+      213: 6879372987582133011
+    second: PC Computer - Minecraft Java Edition - GUI_281
+  - first:
+      213: -757713488329689676
+    second: PC Computer - Minecraft Java Edition - GUI_282
+  - first:
+      213: 9221930237535792090
+    second: PC Computer - Minecraft Java Edition - GUI_283
+  - first:
+      213: 5562336741241151764
+    second: PC Computer - Minecraft Java Edition - GUI_284
+  - first:
+      213: -7126026715661218974
+    second: PC Computer - Minecraft Java Edition - GUI_285
+  - first:
+      213: -1676377483506526920
+    second: PC Computer - Minecraft Java Edition - GUI_286
+  - first:
+      213: -7541742114372404206
+    second: PC Computer - Minecraft Java Edition - GUI_287
+  - first:
+      213: 8766374627272328793
+    second: PC Computer - Minecraft Java Edition - GUI_288
+  - first:
+      213: -7486013775313257418
+    second: PC Computer - Minecraft Java Edition - GUI_289
+  - first:
+      213: 4030863607350618982
+    second: PC Computer - Minecraft Java Edition - GUI_290
+  - first:
+      213: -6882271804163327461
+    second: PC Computer - Minecraft Java Edition - GUI_291
+  - first:
+      213: 146888336434805630
+    second: PC Computer - Minecraft Java Edition - GUI_295
+  - first:
+      213: 5772159157182755977
+    second: PC Computer - Minecraft Java Edition - GUI_296
+  - first:
+      213: -3601453406894381021
+    second: PC Computer - Minecraft Java Edition - GUI_297
+  - first:
+      213: -6101976765193165803
+    second: PC Computer - Minecraft Java Edition - GUI_298
+  - first:
+      213: 6769862940524077297
+    second: PC Computer - Minecraft Java Edition - GUI_299
+  - first:
+      213: -5198703498094937581
+    second: PC Computer - Minecraft Java Edition - GUI_300
+  - first:
+      213: -616141236955418485
+    second: PC Computer - Minecraft Java Edition - GUI_301
+  - first:
+      213: -9021891285213109630
+    second: PC Computer - Minecraft Java Edition - GUI_303
+  - first:
+      213: -2362594949192615558
+    second: PC Computer - Minecraft Java Edition - GUI_304
+  - first:
+      213: -2954832638134623798
+    second: PC Computer - Minecraft Java Edition - GUI_305
+  - first:
+      213: 6307195310175752261
+    second: PC Computer - Minecraft Java Edition - GUI_306
+  - first:
+      213: -5348447127683085870
+    second: PC Computer - Minecraft Java Edition - GUI_307
+  - first:
+      213: 3029757356654082603
+    second: PC Computer - Minecraft Java Edition - GUI_308
+  - first:
+      213: 5802872593021797386
+    second: PC Computer - Minecraft Java Edition - GUI_309
+  - first:
+      213: -2353847297901965232
+    second: PC Computer - Minecraft Java Edition - GUI_310
+  - first:
+      213: -6760812270379826935
+    second: PC Computer - Minecraft Java Edition - GUI_311
+  - first:
+      213: -6340308891764964968
+    second: PC Computer - Minecraft Java Edition - GUI_312
+  - first:
+      213: -4369604516534395626
+    second: PC Computer - Minecraft Java Edition - GUI_313
+  - first:
+      213: 5549525671215374119
+    second: PC Computer - Minecraft Java Edition - GUI_314
+  - first:
+      213: 8413079156102611257
+    second: PC Computer - Minecraft Java Edition - GUI_315
+  - first:
+      213: 7844300514779123420
+    second: PC Computer - Minecraft Java Edition - GUI_316
+  - first:
+      213: 4299158969895008702
+    second: PC Computer - Minecraft Java Edition - GUI_317
+  - first:
+      213: 8917805288378189986
+    second: PC Computer - Minecraft Java Edition - GUI_318
+  - first:
+      213: 4538657274919555785
+    second: PC Computer - Minecraft Java Edition - GUI_319
+  - first:
+      213: 6592864123950884755
+    second: PC Computer - Minecraft Java Edition - GUI_320
+  - first:
+      213: 8694290430367413623
+    second: PC Computer - Minecraft Java Edition - GUI_321
+  - first:
+      213: -3825943140400675037
+    second: PC Computer - Minecraft Java Edition - GUI_322
+  - first:
+      213: -5160255323367940540
+    second: PC Computer - Minecraft Java Edition - GUI_323
+  - first:
+      213: 6489426354910752867
+    second: PC Computer - Minecraft Java Edition - GUI_324
+  - first:
+      213: -2963554485596630152
+    second: PC Computer - Minecraft Java Edition - GUI_325
+  - first:
+      213: 9052615418977585202
+    second: PC Computer - Minecraft Java Edition - GUI_326
+  - first:
+      213: 4901307396176453084
+    second: PC Computer - Minecraft Java Edition - GUI_327
+  - first:
+      213: 4008019650201834964
+    second: PC Computer - Minecraft Java Edition - GUI_328
+  - first:
+      213: -1751180068851042221
+    second: PC Computer - Minecraft Java Edition - GUI_329
+  - first:
+      213: -7452074048391757643
+    second: PC Computer - Minecraft Java Edition - GUI_330
+  - first:
+      213: -7077788278641451054
+    second: PC Computer - Minecraft Java Edition - GUI_331
+  - first:
+      213: -3355062492468093567
+    second: PC Computer - Minecraft Java Edition - GUI_332
+  - first:
+      213: -5402369021713366475
+    second: PC Computer - Minecraft Java Edition - GUI_333
+  - first:
+      213: 4960761977454119526
+    second: PC Computer - Minecraft Java Edition - GUI_334
+  - first:
+      213: -4195098332765596123
+    second: PC Computer - Minecraft Java Edition - GUI_335
+  - first:
+      213: -3650592660881668739
+    second: PC Computer - Minecraft Java Edition - GUI_336
+  - first:
+      213: 4675560695410475329
+    second: PC Computer - Minecraft Java Edition - GUI_337
+  - first:
+      213: -3409206958306143908
+    second: PC Computer - Minecraft Java Edition - GUI_338
+  - first:
+      213: -3411887899833975925
+    second: PC Computer - Minecraft Java Edition - GUI_339
+  - first:
+      213: -5655478749631778293
+    second: PC Computer - Minecraft Java Edition - GUI_340
+  - first:
+      213: 2344349157984935789
+    second: PC Computer - Minecraft Java Edition - GUI_341
+  - first:
+      213: -2911227670812487198
+    second: PC Computer - Minecraft Java Edition - GUI_342
+  - first:
+      213: -2133216097821543251
+    second: PC Computer - Minecraft Java Edition - GUI_343
+  - first:
+      213: -7253349578281687037
+    second: PC Computer - Minecraft Java Edition - GUI_344
+  - first:
+      213: 3902276804168466907
+    second: PC Computer - Minecraft Java Edition - GUI_345
+  - first:
+      213: -4517394348067400595
+    second: PC Computer - Minecraft Java Edition - GUI_346
+  - first:
+      213: 693100180676204844
+    second: PC Computer - Minecraft Java Edition - GUI_347
+  - first:
+      213: 6537464097496006417
+    second: PC Computer - Minecraft Java Edition - GUI_348
+  - first:
+      213: 8949433771061536050
+    second: PC Computer - Minecraft Java Edition - GUI_349
+  - first:
+      213: 391091076905021181
+    second: PC Computer - Minecraft Java Edition - GUI_350
+  - first:
+      213: 1530834153551802763
+    second: PC Computer - Minecraft Java Edition - GUI_351
+  - first:
+      213: 3406244966337493037
+    second: PC Computer - Minecraft Java Edition - GUI_352
+  - first:
+      213: 1303107282618388605
+    second: PC Computer - Minecraft Java Edition - GUI_353
+  - first:
+      213: -4949966426426517973
+    second: PC Computer - Minecraft Java Edition - GUI_354
+  - first:
+      213: 3116210393547792526
+    second: PC Computer - Minecraft Java Edition - GUI_355
+  - first:
+      213: 3405282070938996416
+    second: PC Computer - Minecraft Java Edition - GUI_356
+  - first:
+      213: 9025657460542974678
+    second: PC Computer - Minecraft Java Edition - GUI_357
+  - first:
+      213: 7911118368520395736
+    second: PC Computer - Minecraft Java Edition - GUI_358
+  - first:
+      213: 5755210496137864526
+    second: PC Computer - Minecraft Java Edition - GUI_359
+  - first:
+      213: -1827732519822266060
+    second: PC Computer - Minecraft Java Edition - GUI_360
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 368
+        width: 176
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb0ec4c5d818440800000000000000
+      internalID: 4936382094141079139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 354
+        width: 176
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559e6edaedb46530800000000000000
+      internalID: 3847408798133032276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 410
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c978d041273a12a0800000000000000
+      internalID: -6766034874209371705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 410
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beed86be10ff4f410800000000000000
+      internalID: 1510112158785527531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 410
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb071a88f3de8850800000000000000
+      internalID: 6381270786452687850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_5
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 410
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95d64f02a8c53e40800000000000000
+      internalID: 5635631107090601374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_6
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 412
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59579fc65f3095990800000000000000
+      internalID: -7396876560349170283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_7
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 412
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310fbd0bb32c47b60800000000000000
+      internalID: 7743027220982788115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 352
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb7bcb96c5e39cf0800000000000000
+      internalID: -246600913395155978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_298
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 54
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51469f2367c615ba0800000000000000
+      internalID: -6101976765193165803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_328
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 37
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d01fe2a85f9730800000000000000
+      internalID: 4008019650201834964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Minecraft Java Edition - GUI_332
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 29
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dd331607c6071d0800000000000000
+      internalID: -3355062492468093567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

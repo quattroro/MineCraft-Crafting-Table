@@ -1,0 +1,58 @@
+﻿ID,NAME,Sprite,SpriteIndex,Type
+1000,Ston,Blocks,18,Blocks
+1001,Grass,Blocks,38,Blocks
+1002,Dirt,Blocks,15,Blocks
+1003,Oak Wood Plank,Blocks,13,Blocks
+1004,Cobblestone,Blocks,10,Blocks
+1005,Sand,Blocks,22,Blocks
+1006,Oak Wood,Blocks,11,Blocks
+1007,Stone Slab,Blocks,21,Blocks
+1008,Diamond Block,Blocks,41,Blocks
+1009,CobbleStone Stairs,Blocks,20,Blocks
+1010,Iron Block,Blocks,40,Blocks
+1011,Gold Block,Blocks,39,Blocks
+1012,Oak Door Block,Items,319,Blocks
+1013,Ladder,Blocks,5,Blocks
+1014,Iron Shovel,Items,253,Equips
+1015,Iron Pickaxe,Items,252,Equips
+1016,Iron Axe,Items,242,Equips
+1017,Bow,Items,24,Equips
+1018,Coal,Items,114,Blocks
+1019,Diamond,Items,173,Blocks
+1020,Iron Ingot,Items,249,Blocks
+1021,Gold Ingot,Items,231,Blocks
+1022,Iron Sword,Items,254,Blocks
+1023,Wooden Sword,Items,403,Equips
+1024,Wooden Shovel,Items,402,Equips
+1025,Wooden Pickaxe,Items,401,Equips
+1026,Wooden Axe,Items,399,Equips
+1027,Stone Sword,Items,376,Equips
+1028,Stone Shovel,Items,375,Equips
+1029,Stone Pickaxe,Items,374,Equips
+1030,Stone Axe,Items,372,Equips
+1031,Diamond Sword,Items,183,Equips
+1032,Diramond Shovel,Items,182,Equips
+1033,Diamond Pickaxe,Items,181,Equips
+1034,Diamond Axe,Items,174,Equips
+1035,Gold Sword,Items,230,Equips
+1036,Gold Shovel,Items,229,Equips
+1037,Gold Pickaxe,Items,228,Equips
+1038,Gold Axe,Items,220,Equips
+1039,Stick,Items,371,Blocks
+1040,String,Items,377,Blocks
+1041,Iron Helmet,Items,246,Equips
+1042,Iron Chestplate,Items,244,Equips
+1043,Iron Leggings,Items,250,Equips
+1044,Iron Boots,Items,243,Equips
+1045,Diamond Helmet,Items,177,Equips
+1046,Diamond Chestplate,Items,176,Equips
+1047,Diamond Leggings,Items,180,Equips
+1048,Diamond Boots,Items,175,Equips
+1049,Gold Helmet,Items,224,Equips
+1050,Gold Chestplate,Items,223,Equips
+1051,Gold Leggings,Items,227,Equips
+1052,Gold Boots,Items,221,Equips
+1053,Fishing Rod,Items,207,Equips
+1054,Shears,Items,356,Equips
+1055,Carrot,Items,37,Blocks
+1056,Carrot on a Stick,Items,38,Equips
